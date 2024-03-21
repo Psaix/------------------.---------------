@@ -1,0 +1,15 @@
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\bin\Debug\net7.0\DistanceFromM.exe
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\bin\Debug\net7.0\DistanceFromM.deps.json
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\bin\Debug\net7.0\DistanceFromM.runtimeconfig.json
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\bin\Debug\net7.0\DistanceFromM.dll
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\bin\Debug\net7.0\DistanceFromM.pdb
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\obj\Debug\net7.0\DistanceFromM.csproj.AssemblyReference.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\obj\Debug\net7.0\DistanceFromM.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\obj\Debug\net7.0\DistanceFromM.AssemblyInfoInputs.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\obj\Debug\net7.0\DistanceFromM.AssemblyInfo.cs
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\obj\Debug\net7.0\DistanceFromM.csproj.CoreCompileInputs.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\obj\Debug\net7.0\DistanceFromM.dll
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\obj\Debug\net7.0\refint\DistanceFromM.dll
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\obj\Debug\net7.0\DistanceFromM.pdb
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\obj\Debug\net7.0\DistanceFromM.genruntimeconfig.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\От точки до прямой.Метод координат\DistanceFromM\obj\Debug\net7.0\ref\DistanceFromM.dll
